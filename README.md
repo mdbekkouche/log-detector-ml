@@ -66,7 +66,7 @@ pip install -r requirements.txt
 ## Usage
 
 ### 1. Prepare Your Dataset
-Place your dataset (e.g., `spirit_sliding_window.csv`, `HDFS.log_structured.csv`) inside the `data/` folder or specify its path in the scripts.
+Place your dataset (e.g., `Spirit5M.log_structured.csv`, `HDFS.log_structured.csv`) inside the `data/` folder or specify its path in the scripts.
 
 ---
 
