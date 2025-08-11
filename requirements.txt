@@ -1,0 +1,35 @@
+# Core
+numpy
+pandas
+scipy
+
+# Machine Learning
+scikit-learn
+xgboost
+imbalanced-learn
+
+# Deep Learning (PyTorch)
+torch
+torchvision
+torchaudio
+
+# NLP & Embeddings
+gensim
+nltk
+spacy
+sentence-transformers
+
+# Dimensionality Reduction & Clustering
+umap-learn
+
+# Log Parsing & Mining
+loglizer
+
+# Visualization
+matplotlib
+seaborn
+
+# Utilities
+tqdm
+pyyaml
+joblib
