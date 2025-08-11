@@ -58,7 +58,7 @@ The present tool is developed based on the tool proposed in the article:
 Clone the repository and install the required packages:
 
 ```bash
-git clone https://github.com/<your-username>/log-detector-ml.git
+git clone https://github.com/mdbekkouche/log-detector-ml.git
 cd log-detector-ml
 pip install -r requirements.txt
 ```
